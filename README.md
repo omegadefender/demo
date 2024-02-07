@@ -6,4 +6,4 @@ This is a simple readme file
 
 Some updates for 29 comparing differences
 
-This is bound to cause trouble!
+just something going on 35 saving work in progress with stashing
