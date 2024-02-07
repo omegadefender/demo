@@ -6,4 +6,4 @@ This is a simple readme file
 
 Some updates for 29 comparing differences
 
-added text for updates branch
+This is bound to cause trouble!
