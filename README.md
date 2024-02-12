@@ -7,3 +7,5 @@ This is a simple readme file
 Some updates for 29 comparing differences
 
 just something going on 35 saving work in progress with stashing
+
+checking remote https asks for credentials
